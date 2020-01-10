@@ -1,2 +1,3 @@
 /rn-starter/node_modules/**/*
-/food-project/node_modules/**/*
+/food-project/*
+/food/node_modules/**/*
